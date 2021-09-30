@@ -1,0 +1,27 @@
+section{
+    margin-bottom: 100px;
+}
+.my_background{
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 600px;
+    text-align: center;
+ }
+h1{
+    text-align: center;
+    
+}
+
+.login{
+   background-color: chocolate;
+}
+
